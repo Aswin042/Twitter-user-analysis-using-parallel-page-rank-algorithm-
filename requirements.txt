@@ -1,0 +1,6 @@
+pandas
+numpy
+cupy-cuda11x  # Replace 'cuda11x' with your specific CUDA version (e.g., cupy-cuda12 if using CUDA 12).
+networkx
+matplotlib
+plotly
